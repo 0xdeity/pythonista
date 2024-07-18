@@ -1,4 +1,4 @@
-# Pythonista and Working Copy
+# Pythonista + Working Copy
 
 ![alt text](https://img.shields.io/badge/Python-2.7-blue.svg "Python 2.7")
 ![alt text](https://img.shields.io/badge/Python-3.5-blue.svg "Python 3.6")
